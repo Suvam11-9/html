@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>King Kohli</title>
+</head>
+<body bgcolor="aqua">
+  <div class="container">
+    <h1>Virat Kohli</h1>
+    Virat Kohli is a world-famous Indian cricketer known for his aggressive batting style and consistency. 
+    He has led the team in all formats and is often called the <mark>run-machine</mark> due to his remarkable ability to score big runs. 
+    He made his international debut in <pre>2008</pre> and has since become one of the top batsmen globally. 
+    He holds records in all formats and is respected for his <code>work ethic</code> and <code>fitness</code>. 
+    His leadership as captain helped India achieve many milestones. 
+    He plays for <abbr title="Royal Challengers Bangalore">RCB</abbr> in the IPL and has a massive fan following.
+    <blockquote>“Self-belief and hard work will always earn you success.”</blockquote>
+  </div>
+</body>
+</html>
